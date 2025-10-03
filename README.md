@@ -51,3 +51,4 @@ Thanks for considering contributing to this project! Please follow these steps:
 - Make your changes
 - Submit a Pull Request for review
 
+goitseone rakgomo 2020
